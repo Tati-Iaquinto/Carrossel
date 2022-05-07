@@ -1,0 +1,22 @@
+{
+  "name": "testalurav3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tati-Iaquinto/Carrossel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tati-Iaquinto/Carrossel/issues"
+  },
+  "homepage": "https://github.com/Tati-Iaquinto/Carrossel#readme",
+  "devDependencies": {
+    "http-server": "^14.1.0"
+  }
+}
