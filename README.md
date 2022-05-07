@@ -4,9 +4,9 @@
     - http-server
 ## Instruções
     1. Clone o repositorio
-        $ git clone link-do-repo
+        $ git clone https://github.com/Tati-Iaquinto/Carrossel.git
     2. Instale as dependencias
-        $ cd nomedorepo
+        $ cd Carrossel
         $ npm install
     3. Rode o projeto
         $ npm run dev
